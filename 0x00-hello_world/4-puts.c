@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  *  main - printing
  *
  * Return: Always o (successful)
