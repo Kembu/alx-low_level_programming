@@ -2,8 +2,8 @@
 /**
  * main - printing numbers from 0-9 with commas
  * Description: using the main function
- * this program prints 
- * * Return: 0 (success)
+ * this program prints
+ * Return: 0 (success)
  */
 int main(void)
 {
