@@ -2,7 +2,7 @@
 /**
  * main- alphabet except q and e
  *
- * Return 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
@@ -17,4 +17,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
+}
