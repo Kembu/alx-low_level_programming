@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
  * main - prints numbers base 16
  *
@@ -7,6 +7,7 @@
 int main(void)
 {
 	char c;
+
 	for (c = '0'; c <= '9'; c++)
 	{
 		putchar(c);
