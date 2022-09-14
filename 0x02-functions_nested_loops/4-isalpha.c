@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - checks if character is lower or uppercase
- *@c - int that will be used for the function
+ *@c: int that will be used for the function
  * Return: 0
  */
 int _isalpha(int c)
