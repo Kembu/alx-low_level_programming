@@ -4,8 +4,10 @@
  * _is_prime_number - checks if int is a prime number
  *
  * @n: int to be checked
+ * @start: number to start checking from
  * Return: 1 if true else 0
  */
+int is_prime(int n, int start);
 
 int _is_prime_number(int n)
 {
